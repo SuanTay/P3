@@ -66,7 +66,6 @@ dopamine-rl==1.0.5
 entrypoints==0.3
 filelock==3.0.12
 gast==0.3.3
-GDAL==2.2.2
 gdown==3.6.4
 gensim==3.6.0
 google==2.0.3
