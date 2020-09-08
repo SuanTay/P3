@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser 6_Analyse_univariée.ipynb
+web: voila --port=$PORT --no-browser app.ipynb
